@@ -92,7 +92,7 @@ npm start
 
 #  Frontend will start at → http://localhost:3000
 
-# How It Works
+## How It Works
 
 Frontend (React.js) sends API requests to the backend (Spring Boot).
 
@@ -103,10 +103,13 @@ Database (MySQL) stores product, user, and order details.
 Admin has full control via the admin dashboard.
 
 # Screenshots 
+## Home Page 
+<img width="1893" height="921" alt="image" src="https://github.com/user-attachments/assets/eacf9429-bfcf-4683-9cd4-a869ed8c4d29" />
+
 ## Sign In page
 <img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/3b1e2194-9372-4f8d-a464-f59219c4449b" />
 
-## Products and Home Page
+## Products 
 <img width="1903" height="913" alt="image" src="https://github.com/user-attachments/assets/107b2e4e-78c5-4eea-b7cf-036f7b244189" />
 
 
