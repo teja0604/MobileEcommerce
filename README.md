@@ -116,7 +116,9 @@ Admin has full control via the admin dashboard.
 
 ## Cart / Checkout Page
 <img width="1902" height="907" alt="image" src="https://github.com/user-attachments/assets/c3bb5af7-9d71-4d14-bd36-3565f22f0037" />
-# Database Mysql
+# Database Mysql User tables
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f33a5ec5-556f-4b0d-9c82-d93f518ca9fe" />
+
 
 # Future Enhancements
 
